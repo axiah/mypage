@@ -11,3 +11,16 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+	background-image: url("/assets/brushed.png");
+
+
+}
+
+#carousel-example-generic {      
+	width: 500px;
+	height: 450px;
+	overflow: hidden;
+	margin: 0 auto;
+}
